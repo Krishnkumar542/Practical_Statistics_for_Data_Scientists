@@ -8,6 +8,7 @@ This chapter focuses on the first step in any data science project: exploring th
 ## References 
 1. Shashank Kalanithi: https://www.youtube.com/watch?v=wwsizzg6UjU&list=PL-u09-6gP5ZNd6AhULnQHr6ZsF15qy4D0
 2. Derek Banas: https://youtu.be/tcusIOfI_GM
-3. Khan Academy: https://www.youtube.com/watch?v=uhxtUt_-GyM&list=PL1328115D3D8A2566
-4. Code Basics: https://www.youtube.com/watch?v=8ZI55Inh1_A&list=PLeo1K3hjS3uuKaU2nBDwr6zrSOTzNCs0l
-5. Code with Harry: https://www.youtube.com/watch?v=gfDE2a7MKjA
+3. Krish Naik: https://www.youtube.com/watch?v=y1y1ATTMpaw
+4. Khan Academy: https://www.youtube.com/watch?v=uhxtUt_-GyM&list=PL1328115D3D8A2566
+5. Code Basics: https://www.youtube.com/watch?v=8ZI55Inh1_A&list=PLeo1K3hjS3uuKaU2nBDwr6zrSOTzNCs0l
+6. Code with Harry: https://www.youtube.com/watch?v=gfDE2a7MKjA
