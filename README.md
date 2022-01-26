@@ -1,4 +1,5 @@
 # Practical Statistics for Data Scientists
+## Introduction
 Statistics is the branch of science that deals with the collecting, organizing, analyzing, interpreting, and presenting the data. The field of statistics basically divided into two parts such as; 
 1. Descriptive Statistics: It deals with the collecting, analyzing, and summarizing the data. 
 2. Inferential Statistics: It is a technique which makes the conclusions about the whole data (population) by observing small amount of data (sample).
