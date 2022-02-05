@@ -16,9 +16,9 @@ The concepts we will discuss in this chapter is data and sampling distributions.
 Design of experiments is a cornerstone of the practice of statistics, with applications in virtually all areas of research. The goal is to design an experiment in order to confirm or reject a hypothesis. Data scientists often need to conduct continual experiments, particularly regarding user interface and product marketing. This chapter reviews traditional experimental design and discusses some common challenges in data science. It also covers some oft-cited concepts in statistical inference and explains their meaning and relevance (or lack of relevance) to data science.
 
 ## Sources Used For Coding
-Virtual Studio Code (VS Code) [https://code.visualstudio.com/download]
-Python (Version 3.8.5) [https://www.python.org/downloads/]
-Jupyter Notebook [Notebook availabe in VS code as a part of extension]
+- Virtual Studio Code (VS Code) [https://code.visualstudio.com/download]
+- Python (Version 3.8.5) [https://www.python.org/downloads/]
+- Jupyter Notebook [Notebook availabe in VS code as a part of extension]
 
 
 
