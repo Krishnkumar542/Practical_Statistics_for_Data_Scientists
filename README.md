@@ -13,7 +13,14 @@ This chapter focuses on the first step in any data science project: exploring th
 The concepts we will discuss in this chapter is data and sampling distributions. Traditional statistics very much focused on using theory based on strong assumptions about the population. Modern statistics has moved to the sampling procedures, where such assumptions are not needed. In general, data scientists need not worry about the theoretical nature of population and instead should focus on the sampling procedures and the data at hand. There are some notable exceptions. Sometimes data is generated from a physical process that can be modeled. The simplest example is flipping a coin: this follows a binomial distribution. Any real-life binomial situation (buy or don’t buy, fraud or no fraud, click or don’t click) can be modeled effectively by a coin (with the modified probability of landing heads, of course). In these cases, we can gain additional insight by using our understanding of the population.
 
 ## Chapter 3. Statistical Experiments Significance Testing
-## Summary
+Design of experiments is a cornerstone of the practice of statistics, with applications in virtually all areas of research. The goal is to design an experiment in order to confirm or reject a hypothesis. Data scientists often need to conduct continual experiments, particularly regarding user interface and product marketing. This chapter reviews traditional experimental design and discusses some common challenges in data science. It also covers some oft-cited concepts in statistical inference and explains their meaning and relevance (or lack of relevance) to data science.
+
+## Sources Used For Coding
+Virtual Studio Code (VS Code) [https://code.visualstudio.com/download]
+Python (Version 3.8.5) [https://www.python.org/downloads/]
+Jupyter Notebook [Notebook availabe in VS code as a part of extension]
+
+
 
 ## Acknowledgements
 
