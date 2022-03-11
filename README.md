@@ -7,7 +7,7 @@ Statistics is the branch of science that deals with collecting, organizing, anal
 Below, I tried to summarize first few Chapters of this book with the help of Jupyter notebook files using various datasets obtained from Kaggle and other data sources.
 
 ## Chapter 1. Exploratory Data Analysis
-%%html<a href="https://github.com/Krishnkumar542/Practical_Statistics_for_Data_Scientists/tree/main/Chapter_1_Exploratory_Data_Analysis">(Link1)</a>
+<a href="https://github.com/Krishnkumar542/Practical_Statistics_for_Data_Scientists/tree/main/Chapter_1_Exploratory_Data_Analysis">(Link1)</a>
 This chapter focuses on the first step in any data science project: exploring the data. Exploratory data analysis, or EDA, is a comparatively new area of statistics. In 1962, John W. Tukey called for a reformation of statistics in his seminal paper “The Future of Data Analysis” [Tukey-1962]. With the ready availability of computing power and expressive data analysis software, exploratory data analysis has evolved well beyond its original scope. Key drivers of this discipline have been the rapid development of new technology, access to more and bigger data, and the greater use of quantitative analysis in a variety of disciplines.
 
 ## Chapter 2. Data and Sampling Distributions
