@@ -4,7 +4,7 @@ Statistics is the branch of science that deals with collecting, organizing, anal
 1. Descriptive Statistics: It deals with collecting, analyzing, and summarizing the data. 
 2. Inferential Statistics: It is a technique that makes the conclusions about the whole data (population) by observing a small amount of data (sample).
 
-Below, I tried to summarize first few Chapters of this book with the help of Jupyter notebook files using various datasets obtained from Kaggle and other data sources.
+Below, I tried to summarize first few Chapters of <a href="https://github.com/Krishnkumar542/Practical_Statistics_for_Data_Scientists/blob/main/Practical%20Statistics%20for%20Data%20Scientists%2050%20Essential%20Concepts.pdf">this book</a> with the help of Jupyter notebook files using various datasets obtained from Kaggle and other data sources.
 
 ## Chapter 1. Exploratory Data Analysis
 <a href="https://github.com/Krishnkumar542/Practical_Statistics_for_Data_Scientists/tree/main/Chapter_1_Exploratory_Data_Analysis">This chapter</a>
