@@ -4,7 +4,7 @@ Statistics is the branch of science that deals with collecting, organizing, anal
 1. Descriptive Statistics: It deals with collecting, analyzing, and summarizing the data. 
 2. Inferential Statistics: It is a technique that makes the conclusions about the whole data (population) by observing a small amount of data (sample).
 
-Below, I tried to summarize first few Chapters of this book with Jupyter notebook files using various datasets obtained from Kaggle and other data sources.
+Below, I tried to summarize first few Chapters of this book with the help of Jupyter notebook files using various datasets obtained from Kaggle and other data sources.
 
 ## Chapter 1. Exploratory Data Analysis
 This chapter focuses on the first step in any data science project: exploring the data. Exploratory data analysis, or EDA, is a comparatively new area of statistics. In 1962, John W. Tukey called for a reformation of statistics in his seminal paper “The Future of Data Analysis” [Tukey-1962]. With the ready availability of computing power and expressive data analysis software, exploratory data analysis has evolved well beyond its original scope. Key drivers of this discipline have been the rapid development of new technology, access to more and bigger data, and the greater use of quantitative analysis in a variety of disciplines.
@@ -20,9 +20,6 @@ Design of experiments is a cornerstone of the practice of statistics, with appli
 - Python (Version 3.8.5) [https://www.python.org/downloads/]
 - Jupyter Notebook [Notebook availabe in VS code as a part of extension]
 
-
-
-## Acknowledgements
 
 ## References 
 1. Shashank Kalanithi: https://www.youtube.com/watch?v=wwsizzg6UjU&list=PL-u09-6gP5ZNd6AhULnQHr6ZsF15qy4D0
